@@ -330,7 +330,7 @@ Note: this does not mean single-letter names have to be used - by all means pick
 |byte|`b`|
 |short|`s`|
 |int|`i`|
-|long|`l`|
+|long|`j`|
 |float|`f`|
 |double|`d`|
 
